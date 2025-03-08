@@ -1,0 +1,17 @@
+.filter-sidebar {
+    padding: 16px;
+    background-color: #f9fafb;
+    border-radius: 8px;
+    box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+  }
+  
+  .filter-sidebar label {
+    display: block;
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+  }
+  
+input {
+    margin-right: 8px;
+}
